@@ -4,6 +4,9 @@ Outlier detection is essential in identifying anomalies in data, which can indic
 
 Project Overview:
 
+![image](https://github.com/user-attachments/assets/a53f72ef-4313-4772-bd05-f91a5222a7f3)
+
+
 ✅ Objective: Identify anomalies in datasets using Isolation Forest and Local Outlier Factor (LOF)
 
 ✅ Data Collection: Gather structured data from real-world sources like financial transactions, sensor data, or healthcare records
