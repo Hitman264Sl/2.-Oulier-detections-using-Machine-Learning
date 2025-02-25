@@ -21,6 +21,9 @@ Project Overview:
 
 ✅ Deployment: Integrate the model into a system for real-time anomaly detection
 
+![image](https://github.com/user-attachments/assets/891a6904-036d-4388-a7b2-854bec829981)
+
+
 
 This project enhances skills in data preprocessing, unsupervised learning, and model optimization, making it applicable in fraud detection, cybersecurity, and predictive maintenance.
 
